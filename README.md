@@ -38,31 +38,20 @@ Using the list from the previous exercise, now sort it in reverse order, from th
 Create a Functional Interface that contains a method called reverse(). This method must receive and return a String. In the main() of the main class, inject the method’s body into the created interface using a lambda, so that it returns the same string it receives as a parameter but in reverse order. Invoke the instance of the interface, pass a string to it, and check if the result is correct.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Technologies used 💻
 
 - **Java**
 - **IntelliJ IDEA** Community Edition 2024
+- **Git**
+- **GitHub**
  
 
 ## Requirements 📋
 
 - **Java JDK 8** or higher
 - **IntelliJ IDEA** (or any other Java-compatible IDE)
+
+  
 ## Installation 🛠️
 
 **1.** Clone this repository: -> git clone
@@ -79,6 +68,8 @@ Create a Functional Interface that contains a method called reverse(). This meth
 **3.** Compile the project.
 
 **4.** Run the main class to see how the different instrument types are instantiated and how the "play()" method is invoked.
+
+
 ## Contributions 🤝
 
 If you wish, do not hesitate to contribute to this project with your improvements or corrections.
