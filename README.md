@@ -67,8 +67,6 @@ Create a Functional Interface that contains a method called reverse(). This meth
 
 **3.** Compile the project.
 
-**4.** Run the main class to see how the different instrument types are instantiated and how the "play()" method is invoked.
-
 
 ## Contributions 🤝
 
